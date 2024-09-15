@@ -12,7 +12,7 @@ The following NextCloud settings are available:
                     "client_id": "<insert-id>",
                     "secret": "<insert-secret>",
                     "settings": {
-                        "server": "https://nextcloud.example.org",
+                        "server": "https://nextcloud.example.org"
                     }
                 }
             ]
